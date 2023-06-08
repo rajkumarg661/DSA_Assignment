@@ -1,4 +1,5 @@
-
+#include<bits/stdc++.h>
+using namesapce std;
 
  vector<int> printIntersection(int arr1[], int arr2[], int N, int M) 
     { 
